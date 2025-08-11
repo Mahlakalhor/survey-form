@@ -5,16 +5,14 @@
 }
 body{
     background-color: rgba(0, 213, 255, 1);
-    align-items: center;
 }
 main{
     background-color: #f9f9f9;
     width: 90%;
     max-width: 500px;
     margin: 80px auto;
-    padding: 20;
+    padding: 40px;
     border-radius: 10px;
-    text-align: center;
 }
 h1{
     margin-bottom: 20px;
@@ -40,10 +38,11 @@ input,textarea,button{
     margin:single-button;
 }
 button{
-    background: #8b5e3c;
+    background: #664831;
+    align-items: center;
 }
 button:hover{
-    background: #70492f ;
+    background: #382418 ;
 }
 p{
     text-align: center;
